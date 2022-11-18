@@ -6,7 +6,7 @@
 
 ## Built With
   - React- The framework Used to Build
-  - jQuery - javaScript library
+  - JavaScript- javaScript library
   - CSS - For Styling
 
 ## API
