@@ -16,7 +16,7 @@
   - [Click to View](https://react-weather-app-alpha-ten.vercel.app/)  
   *(Hosted on Vercel)*
   
-  - I used React instead of Vue solely because I'm more familiar with React.
+  - I used React because I'm more familiar with React.
   - Used a fast library.
   
 ## Architecture
